@@ -32,7 +32,7 @@ I'm demon_beast a discord Bot/Web Developer, I Spend most of time coding and lis
     <p><b>     Ty for reading<br>
 </div>
 <div>
-    <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+    <h2 align="left" style="font-size: 24px">                 ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
     <p>
         <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
